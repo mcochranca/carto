@@ -39,7 +39,7 @@
     "lodash": "~4.17.10",
     "mapnik-reference": "~8.10.0",
     "semver": "~5.7.2",
-    "yargs": "~15.4.1"
+    "yargs": "~18.0.0"
   },
   "devDependencies": {
     "coveralls": "~3.0.0",
